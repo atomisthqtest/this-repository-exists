@@ -1,6 +1,6 @@
 # this-repository-exists
 
-Tests depend on this being here.
+Tests depend on this being here, and this branch being here.
 
 If you delete it, something somewhere will fail, but you won't know right away.
 
